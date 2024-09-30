@@ -7,19 +7,18 @@ Projeto de desenvolvimento de site institucional de tema portfólio, neste proje
 * Funcionalidades e Demonstração do Site
 
 Página pricipal "Home"
-
+![1](https://github.com/user-attachments/assets/2819fc10-0fc2-44c4-962f-0b5f791b2e05)
 
 Sobre mim
-
+![2](https://github.com/user-attachments/assets/68d68f30-3558-4af9-b64f-56e25a395ce9)
 
 Curriculo
-
-
+![3](https://github.com/user-attachments/assets/2554d38c-291f-4eb2-bce5-c44fd51104ea)
 
 * Tecnologias utilizadas
 
-  * HTML
-  * CSS
+  * HTML - HyperText Markup Language
+  * CSS - Cascading Style Sheets
 
 * Pessoas Desenvolvedoras do Projeto
 
