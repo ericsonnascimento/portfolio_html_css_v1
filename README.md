@@ -15,6 +15,10 @@ Sobre mim
 Curriculo
 ![3](https://github.com/user-attachments/assets/2554d38c-291f-4eb2-bce5-c44fd51104ea)
 
+* Link do projeto
+
+https://ericsonnascimento.github.io/projeto_portfolio_alura_css/
+
 * Tecnologias utilizadas
 
   * HTML - HyperText Markup Language
